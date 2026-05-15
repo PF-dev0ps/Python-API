@@ -112,7 +112,7 @@ http://localhost:8000/docs
 # ScreenShots:
 
 <p align="center">
-  <img src="screenshots/swagger01.png" width="30%">
+  <img src="screenshots/tests_ok.png" width="30%">
   <img src="screenshots/swagger02.png" width="30%">
   <img src="screenshots/swagger01.png" width="30%">
 </p>
