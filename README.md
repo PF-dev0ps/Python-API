@@ -1,8 +1,6 @@
 # Python-API
 
-FastAPI-based IoT telemetry API built as a backend learning and portfolio lab.
-
-This project simulates a Raspberry Pi Pico device sending telemetry metrics to a REST API protected with API Key authentication and JWT-based access control.
+FastAPI-based IoT telemetry API with JWT authentication, device ingestion endpoints, testing and Raspberry Pi integration.
 
 ---
 
